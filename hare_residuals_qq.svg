@@ -1,0 +1,56 @@
+<svg width='800' height='400' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='800' height='400' fill='white' stroke='none' />
+<line x1='60' y1='340' x2='740' y2='340' stroke='black' stroke-width='1' />
+<line x1='60' y1='60' x2='60' y2='340' stroke='black' stroke-width='1' />
+<line x1='60.0' y1='307.99864143550866' x2='740.0' y2='104.85414409681792' stroke='red' stroke-width='1.5' />
+<circle cx='90.90909090909092' cy='327.27272727272725' r='3' fill='steelblue' />
+<circle cx='146.5622012559029' cy='271.16456010414913' r='3' fill='steelblue' />
+<circle cx='178.12256837153123' cy='263.7033933843079' r='3' fill='steelblue' />
+<circle cx='201.20278125557846' cy='246.64743639403505' r='3' fill='steelblue' />
+<circle cx='219.8338919181634' cy='243.28021415457604' r='3' fill='steelblue' />
+<circle cx='235.70218745240533' cy='242.3517492578385' r='3' fill='steelblue' />
+<circle cx='249.68316283267544' cy='241.25828220997641' r='3' fill='steelblue' />
+<circle cx='262.29337014313467' cy='238.8688624254164' r='3' fill='steelblue' />
+<circle cx='273.8649088921061' cy='238.1065526868186' r='3' fill='steelblue' />
+<circle cx='284.62500797583186' cy='235.42822302598165' r='3' fill='steelblue' />
+<circle cx='294.7367314731838' cy='234.5558763536332' r='3' fill='steelblue' />
+<circle cx='304.32163686384814' cy='231.43980538852475' r='3' fill='steelblue' />
+<circle cx='313.47323909555445' cy='230.7220485034641' r='3' fill='steelblue' />
+<circle cx='322.2654410413777' cy='230.65134856203022' r='3' fill='steelblue' />
+<circle cx='330.758045047497' cy='228.76353313238548' r='3' fill='steelblue' />
+<circle cx='339.000490619215' cy='227.77949609699' r='3' fill='steelblue' />
+<circle cx='347.034471585219' cy='224.20269400246104' r='3' fill='steelblue' />
+<circle cx='354.89582243157406' cy='221.369974702288' r='3' fill='steelblue' />
+<circle cx='362.61591537087367' cy='217.40070015649798' r='3' fill='steelblue' />
+<circle cx='370.2227231505573' cy='217.0802418992634' r='3' fill='steelblue' />
+<circle cx='377.7416503311841' cy='213.270709676094' r='3' fill='steelblue' />
+<circle cx='385.1962033575685' cy='211.46238564180277' r='3' fill='steelblue' />
+<circle cx='392.6085492824298' cy='208.70904454000274' r='3' fill='steelblue' />
+<circle cx='400.0' cy='207.04265158937758' r='3' fill='steelblue' />
+<circle cx='407.39145071757014' cy='206.24522423414984' r='3' fill='steelblue' />
+<circle cx='414.8037966424315' cy='205.69622001369734' r='3' fill='steelblue' />
+<circle cx='422.2583496688159' cy='203.38191822196399' r='3' fill='steelblue' />
+<circle cx='429.7772768494427' cy='203.3494405576738' r='3' fill='steelblue' />
+<circle cx='437.38408462912633' cy='200.42439340958285' r='3' fill='steelblue' />
+<circle cx='445.104177568426' cy='199.61018715530287' r='3' fill='steelblue' />
+<circle cx='452.9655284147809' cy='195.18647949518575' r='3' fill='steelblue' />
+<circle cx='460.999509380785' cy='195.18587676616193' r='3' fill='steelblue' />
+<circle cx='469.24195495250297' cy='194.01135601627382' r='3' fill='steelblue' />
+<circle cx='477.73455895862224' cy='191.71860689975097' r='3' fill='steelblue' />
+<circle cx='486.52676090444555' cy='190.53485300825108' r='3' fill='steelblue' />
+<circle cx='495.6783631361519' cy='186.5499270523624' r='3' fill='steelblue' />
+<circle cx='505.2632685268162' cy='186.36287271831884' r='3' fill='steelblue' />
+<circle cx='515.3749920241683' cy='185.7882012498093' r='3' fill='steelblue' />
+<circle cx='526.1350911078939' cy='181.42889203633484' r='3' fill='steelblue' />
+<circle cx='537.7066298568653' cy='179.77870602533787' r='3' fill='steelblue' />
+<circle cx='550.3168371673246' cy='178.79328117570253' r='3' fill='steelblue' />
+<circle cx='564.2978125475947' cy='171.05675347327943' r='3' fill='steelblue' />
+<circle cx='580.1661080818367' cy='156.20909305309337' r='3' fill='steelblue' />
+<circle cx='598.7972187444216' cy='155.16647831437288' r='3' fill='steelblue' />
+<circle cx='621.8774316284688' cy='111.56873184342575' r='3' fill='steelblue' />
+<circle cx='653.4377987440971' cy='98.73318340172798' r='3' fill='steelblue' />
+<circle cx='709.090909090909' cy='72.72727272727269' r='3' fill='steelblue' />
+<text x='400.0' y='25' font-size='16' text-anchor='middle'>QQ Plot of AR(3) Residuals</text>
+<text x='400.0' y='380' font-size='14' text-anchor='middle'>Theoretical Quantiles</text>
+<text x='20' y='200.0' font-size='14' text-anchor='middle' transform='rotate(-90 20 200.0)'>Sample Quantiles</text>
+</svg>
